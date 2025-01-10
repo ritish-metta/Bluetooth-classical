@@ -31,19 +31,12 @@ dependencies:
   flutter:
       sdk: flutter
   get: ^4.6.5
-  flutter_reactive_ble: ^5.3.1  # BLE library
+  #flutter_reactive_ble: ^5.3.1  # BLE library
   permission_handler: ^11.1.0
-  get_storage: ^2.1.1
-  bluetooth_classic: ^0.0.2  # Classic Bluetooth library
-  rxdart: ^0.28.0
-  cached_network_image: ^3.4.1
-  audio_video_progress_bar: ^2.0.3
-  just_audio: ^0.9.42
-  just_audio_background: ^0.0.1-beta.13
   http: ^1.2.2
-  flutter_bluetooth_serial: ^0.4.0
-  flutter_blue_plus: ^1.34.5
-  path_provider: ^2.0.15
+ 
+ 
+ 
   
 
 
@@ -51,6 +44,8 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
+  flutter_bluetooth_serial: ^0.4.0
+
 
 dev_dependencies:
   flutter_test:
